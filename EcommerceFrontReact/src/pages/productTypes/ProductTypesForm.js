@@ -1,7 +1,7 @@
 import { useContext, useState } from "react";
-import axios from "axios";
 import { Button, Form, Modal } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
+import clientHttp from "../../axios/axios";
 import { NotificationContext } from "../../context/NotificationContext";
 
 export const ProductTypesForm = () => {
@@ -20,9 +20,9 @@ export const ProductTypesForm = () => {
         const newProductType = {
             name: name
         }
-        axios({
+        clientHttp({
             method: "post",
-            url: "https://localhost:7190/ProductType",
+            url: "/ProductType",
             headers: {
                 "Content-Type": "application/json",
             },
