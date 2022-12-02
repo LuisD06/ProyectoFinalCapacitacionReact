@@ -1,0 +1,34 @@
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.deps.json
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.runtimeconfig.json
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.dll
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.pdb
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Domain.dll
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Domain.pdb
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.AssemblyInfo.cs
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.csproj.CopyComplete
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.dll
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\refint\Curso.ECommerce.Infraestructure.dll
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.pdb
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.genruntimeconfig.cache
+C:\Users\Casa\Documents\Luis David\Proyecto Ecommerce\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\ref\Curso.ECommerce.Infraestructure.dll
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.deps.json
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.runtimeconfig.json
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.dll
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Infraestructure.pdb
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Domain.dll
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\bin\Debug\net6.0\Curso.ECommerce.Domain.pdb
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.csproj.AssemblyReference.cache
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.AssemblyInfoInputs.cache
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.AssemblyInfo.cs
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.csproj.CoreCompileInputs.cache
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.csproj.CopyComplete
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.dll
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\refint\Curso.ECommerce.Infraestructure.dll
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.pdb
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\Curso.ECommerce.Infraestructure.genruntimeconfig.cache
+E:\NetCore\Capacitacion\Proyecto Final\ProyectoFinalCapacitacion\src\Curso.ECommerce.Infraestructure\obj\Debug\net6.0\ref\Curso.ECommerce.Infraestructure.dll
